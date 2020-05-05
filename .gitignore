@@ -4,3 +4,5 @@ reslut/
 *.xls
 .Rhistory
 
+.Rproj.user
+*.7z
